@@ -1,3 +1,9 @@
 .App {
   text-align: center;
 }
+
+.card-body{
+  width: 100%;
+  color: black;
+  background-color: red;
+}
